@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/radiance-hotel/static/css/main.8994607b.css",
+    "main.js": "/radiance-hotel/static/js/main.ae91ccf0.js",
+    "index.html": "/radiance-hotel/index.html",
+    "main.8994607b.css.map": "/radiance-hotel/static/css/main.8994607b.css.map",
+    "main.ae91ccf0.js.map": "/radiance-hotel/static/js/main.ae91ccf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8994607b.css",
+    "static/js/main.ae91ccf0.js"
+  ]
+}
